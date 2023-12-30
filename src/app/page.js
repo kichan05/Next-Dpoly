@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h1>메인</h1>
       <button><Link href="/add">Add 가기</Link></button>
+      <button><Link href="/create">Create 가기</Link></button>
     </>
   )
 }
